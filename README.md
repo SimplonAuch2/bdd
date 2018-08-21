@@ -78,3 +78,7 @@ https://fr.wikipedia.org/wiki/Forme_normale_(bases_de_donn%C3%A9es_relationnelle
 https://sqlpro.developpez.com/cours/modelisation/merise/?page=base
 
 
+## Entrainements
+
+- [1. BLOG](1. BLOG.md)
+- [1. ECOMMERCE](2. ECOMMERCE.md)
