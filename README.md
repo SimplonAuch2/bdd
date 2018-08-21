@@ -81,4 +81,4 @@ https://sqlpro.developpez.com/cours/modelisation/merise/?page=base
 ## Entrainements
 
 - [1. BLOG](1.&#32;BLOG.md)
-- [1. ECOMMERCE](2.&#32;ECOMMERCE.md)
+- [2. ECOMMERCE](2.&#32;ECOMMERCE.md)
